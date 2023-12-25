@@ -14,14 +14,7 @@
         width: 50%;
     }
 
-    p {
-        width: 100%;
-        gap: 20px;
-        display: flex;
-        justify-content: space-between;
-        width: 100%;
-        flex-wrap: wrap;
-    }
+    p {}
 </style>
 <h1 align="center">Hi 👋, I'm Ahmet Eren Kayıkçı</h1>
 <h3 align="center">A"I am a software enthusiast and a university student. My interest in the world of software started
@@ -31,10 +24,15 @@
 
 
 
-<br> 
+<br>
 <h3 style="text-align: center; margin-top: 20px;">Languages and Tools</h3>
-<br> 
-<p align="left">
+<br>
+<p align="left" style="width: 100%;
+gap: 20px;
+display: flex;
+justify-content: space-between;
+width: 100%;
+flex-wrap: wrap;">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="" height="" />
     </a>
