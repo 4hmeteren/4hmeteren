@@ -35,7 +35,7 @@
         justify-content: center;
         align-items: center;
         aspect-ratio: 1;" href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="" height="" />
+        <img style=' width: 50%;' src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="" height="" />
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
