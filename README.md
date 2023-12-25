@@ -27,12 +27,7 @@
 <br>
 <h3 style="text-align: center; margin-top: 20px;">Languages and Tools</h3>
 <br>
-<p align="left" style="width: 100%;
-gap: 20px;
-display: flex;
-justify-content: space-between;
-width: 100%;
-flex-wrap: wrap;">
+<p align="left" style="width: 100%; gap: 20px; display: flex; justify-content: space-between; width: 100%; flex-wrap: wrap;">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="" height="" />
     </a>
