@@ -28,7 +28,13 @@
 <h3 style="text-align: center; margin-top: 20px;">Languages and Tools</h3>
 <br>
 <p align="left" style="width: 100%; gap: 20px; display: flex; justify-content: space-between; width: 100%; flex-wrap: wrap;">
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <a style="        width: 10%;
+        padding: 10px;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        aspect-ratio: 1;" href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="" height="" />
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
