@@ -33,10 +33,10 @@ justify-content: space-between;
 width: 100%;
 flex-wrap: wrap;">
     <a style=''  href="https://angular.io" target="_blank" rel="noreferrer">
-         <img style='width:15%' src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="" height="" />
+         <img style='width:10% ; margin : 0px 20px;' src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="" height="" />
     </a>
     <a style=''  href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-         <img style='width:15%' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+         <img style='width:10% ; margin : 0px 20px;' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="" height="" />
     </a>
     <a style=''  href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  <img style='width :15%'
