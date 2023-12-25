@@ -28,16 +28,15 @@
 <h3 style="text-align: center; margin-top: 20px;">Languages and Tools</h3>
 <br>
 <p align="left" style="width: 100%;
-gap: 20px;
 display: flex;
 justify-content: space-between;
 width: 100%;
 flex-wrap: wrap;">
     <a style='background-color:red''  href="https://angular.io" target="_blank" rel="noreferrer">
-         <img style='width :25%' src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="" height="" />
+         <img style='width:25%' src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="" height="" />
     </a>
     <a style='background-color:red''  href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-         <img style='width :25%' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+         <img style='width:25%' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="" height="" />
     </a>
     <a style='background-color:red''  href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  <img style='width :25%'
